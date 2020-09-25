@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on AEON
 - 🌱 I’m currently learning React/Vue
+- 📚 Blog <a href="https://blog.csdn.net/silencezwm">https://blog.csdn.net/silencezwm</a>
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=silencezwm&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
